@@ -51,8 +51,17 @@ Hey, Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer,
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukmanhossain)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukmanhossain&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lukmanhossain)  
+<summary>**Github Readme Status**</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/lukmanhossain">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=lukmanhossain&show_icons=true&theme=radical&count_private=true">
+  </a>
+  <a href="https://github.com/lukmanhossain/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lukmanhossain&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukmanhossain&theme=radical&hide_border=true"/>
+</p>  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lukmanhossain)  
