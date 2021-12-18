@@ -51,7 +51,7 @@ Hey, Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer,
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<summary>**Github Readme Status**</summary>
+**Github Readme Status**
  </br>
  <p align="center">
   <a href="https://github.com/lukmanhossain">
