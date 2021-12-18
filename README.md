@@ -7,12 +7,12 @@
 ![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
 
 Welcome to my GitHub profile. I am a MERN Stack Web Developer, Web Designer, Programmer, Learner.</br> 
-Knock me: m.facebook.com/lukmanhossain01
+**Knock me**: https://www.facebook.com/lukmanhossain01
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP 
+**Skills**: REACT / JS / HTML / CSS / BOOTSTRAP 
  
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **JS, Python, React, React Native, Redux and so on**
 
@@ -20,7 +20,7 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP
 
 - 📝 I regularly write articles on [https://dev.to/lukmanhossain](https://dev.to/lukmanhossain)
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, JavaScript, React, React Native **
+- 💬 Ask me about **HTML5, CSS3, Bootstrap, JavaScript, React, React Native**
 
 - 📫 How to reach me **lukman.webdev@gmail.com**
 
