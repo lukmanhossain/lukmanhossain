@@ -1,7 +1,7 @@
 ![I am lukmanhossain](https://github.com/lukmanhossain/lukmanhossain/blob/main/lukmanhossain-github.gif)
 
 
-<h1 align="center">Hi 👋, I'm Lukman Hossain</h1>
+<h1 align="center">Hi 👋, This is Lukman Hossain</h1>
 <h3 align="center">I'm a MERN Stack Web Developer, Web Designer, Programmer, Learner</h3>
 
 ![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
