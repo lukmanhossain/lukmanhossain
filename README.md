@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lukman Hossain</h1>
-<h3 align="center">MERN Stack Web Developer, Web Designer, Programmer, Learner</h3>
+<h3 align="center">I'm a MERN Stack Web Developer, Web Designer, Programmer, Learner</h3>
 
 ![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
 
