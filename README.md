@@ -59,7 +59,7 @@ Hey, Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer,
  <a href="https://github.com/lukmanhossain/github-readme-streak-stats"><img alt="Lukman Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lukmanhossain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a href="https://github.com/lukmanhossain/github-readme-streak-stats"><img alt="Lukman Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukmanhossain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </p>
-<p >
+<p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukmanhossain&theme=radical&hide_border=true"/>
 </p>  
 
