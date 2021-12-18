@@ -12,19 +12,19 @@ Welcome to my GitHub profile. I am a MERN Stack Web Developer, Web Designer, Pro
 **Skills**: REACT / JS / HTML / CSS / BOOTSTRAP 
  
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on: **Web Development**
 
-- 🌱 I’m currently learning **JS, Python, React, React Native, Redux and so on**
+- 🌱 I’m currently learning: **JS, Python, React, React Native, Redux and so on**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lukmanhossain](https://github.com/lukmanhossain)
+- 👨‍💻 All of my projects are available at: [https://github.com/lukmanhossain](https://github.com/lukmanhossain)
 
-- 📝 I regularly write articles on [https://dev.to/lukmanhossain](https://dev.to/lukmanhossain)
+- 📝 I regularly write articles on: [https://dev.to/lukmanhossain](https://dev.to/lukmanhossain)
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, JavaScript, React, React Native**
+- 💬 Ask me about: **HTML5, CSS3, Bootstrap, JavaScript, React, React Native**
 
-- 📫 How to reach me **lukman.webdev@gmail.com**
+- 📫 How to reach me: **lukman.webdev@gmail.com**
 
-- 📄 All About Me:[https://lukman-hossain.web.app](https://lukman-hossain.web.app)
+- 📄 All About Me: [https://lukman-hossain.web.app](https://lukman-hossain.web.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
