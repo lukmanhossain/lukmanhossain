@@ -4,7 +4,7 @@
 
 Hey, This is Lukman Hossain. I'm a MERN Stack web developer, Programmer, Learner. Always try to learn something new for my skill development.
 
-Skills: HTML / CSS/ JS / REACT
+Skills: HTML / CSS / JS / REACT
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning App Development 
