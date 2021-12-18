@@ -56,7 +56,7 @@ Hey, Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer,
 <h3 align="left">Github Readme Stats:</h3>
  </br>
  <p align="center">
- <a href="https://github.com/lukmanhossain/github-readme-streak-stats"><img alt="Lukman Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api username=lukmanhossain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/lukmanhossain/github-readme-streak-stats"><img alt="Lukman Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lukmanhossain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/lukmanhossain/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lukmanhossain&layout=compact&theme=radical&langs_count=6" />
   </a>
