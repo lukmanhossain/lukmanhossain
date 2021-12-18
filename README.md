@@ -1,24 +1,5 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">Hi 👋, This is Lukman Hossain</h1>
-<div className="autoType">
-                  <h3 className="typical">
-                    I'm A
-                    <Typical
-                      loop={Infinity}
-                      wrapper="b"
-                      steps={[
-                        " Web Developer",
-                        1000,
-                        " Web Designer",
-                        1000,
-                        " Programmer",
-                        1000,
-                        " Learner",
-                        1000,
-                      ]}
-                    />
-                  </h3>
-                </div>
 <h2 align="center">I'm a MERN Stack Web Developer, Web Designer, Programmer, Learner.</h2>
 
 ![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
