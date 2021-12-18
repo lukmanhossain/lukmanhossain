@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
 
-Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer, Programmer, Learner.</br> 
+Hey, Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer, Programmer, Learner.</br> 
 **Knock me**: https://www.facebook.com/lukmanhossain01
 
 **Skills**: REACT / JS / HTML / CSS / BOOTSTRAP 
