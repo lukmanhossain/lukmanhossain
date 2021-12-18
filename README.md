@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi 👋, This is Lukman Hossain</h1>
-<h3 align="center">I'm a MERN Stack Web Developer, Web Designer, Programmer, Learner.</h3>
+<h2 align="center">I'm a MERN Stack Web Developer, Web Designer, Programmer, Learner.</h2>
 
 ![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
 
-Welcome to my GitHub profile. I am a MERN Stack Web Developer, Web Designer, Programmer, Learner.</br> 
+Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer, Programmer, Learner.</br> 
 **Knock me**: https://www.facebook.com/lukmanhossain01
 
 **Skills**: REACT / JS / HTML / CSS / BOOTSTRAP 
