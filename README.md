@@ -1,4 +1,4 @@
-![I am lukmanhossain](https://github.com/lukmanhossain/lukmanhossain/blob/main/lukmanhossain-github.gif)
+![I am lukmanhossain]<img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 
 
 <h1 align="center">Hi 👋, This is Lukman Hossain</h1>
