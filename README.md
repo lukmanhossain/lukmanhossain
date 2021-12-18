@@ -60,6 +60,7 @@ Hey, Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer,
   <a href="https://github.com/lukmanhossain/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lukmanhossain&layout=compact&theme=radical&langs_count=6" />
   </a>
+ <a href="https://github.com/MatrixGlitch-Hridoy/github-readme-streak-stats"><img alt="Rizvi Khalid Hridoy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixGlitch-Hridoy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </p>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukmanhossain&theme=radical&hide_border=true"/>
