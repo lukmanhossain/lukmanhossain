@@ -12,7 +12,7 @@ Hey, Welcome to my GitHub profile. I'm a MERN Stack Web Developer, Web Designer,
 
 - 🔭 I’m currently working on: **Web Development**
 
-- 🌱 I’m currently learning: **JS, Python, React, React Native, Redux and so on**
+- 🌱 I’m currently learning: **Python, React Native, Redux **
 
 - 👨‍💻 All of my projects are available at: [https://github.com/lukmanhossain](https://github.com/lukmanhossain)
 
