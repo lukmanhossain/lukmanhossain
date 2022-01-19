@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">Hi 👋, This is Lukman Hossain</h1>
-<h2 align="center">I'm a Full Stack Web Developer, Web Designer, Programmer, Learner.</h2>
+<h2 align="center">A passionate Full Stack Web Developer, Web Designer, Programmer, Learner.</h2>
 
 ![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
 
