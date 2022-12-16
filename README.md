@@ -12,7 +12,7 @@ Hey, Welcome to my GitHub profile. I'm a Full Stack Web Developer, Web Designer,
 
 - 🔭 I’m currently working on: **Web Development**
 
-- 🌱 I’m currently learning: **Python, React Native, Redux **
+- 🌱 I’m currently learning: **React Native, Redux **
 
 - 👨‍💻 All of my projects are available at: [https://github.com/lukmanhossain](https://github.com/lukmanhossain)
 
