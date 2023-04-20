@@ -4,11 +4,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
 
-Hey, Welcome to my GitHub profile. I'm a Full Stack Web Developer, Web Designer, Programmer, Learner.</br> 
-**If needed Knock me**: [Facebook](https://www.facebook.com/lukmanhossain01)
+Hey, Welcome to my GitHub profile. I'm a Full Stack Web Developer, Web Designer, Programmer, Learner.
 
 **Skills**: REACT / JS / HTML / CSS / BOOTSTRAP 
- 
 
 - 🔭 I’m currently working on: **Web Development**
 
