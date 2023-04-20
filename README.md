@@ -12,17 +12,17 @@ Hey, Welcome to my GitHub profile. I'm a Full Stack Web Developer, Web Designer,
 
 - 🔭 I’m currently working on: **Web Development**
 
-- 🌱 I’m currently learning: **React Native, Redux **
+- 🌱 I’m currently learning: **Python, Django **
 
-- 👨‍💻 All of my projects are available at: [https://github.com/lukmanhossain](https://github.com/lukmanhossain)
+- 👨‍💻 All of my projects are available at: [Github.com](https://github.com/lukmanhossain)
 
-- 📝 I regularly write articles on: [https://dev.to/lukmanhossain](https://dev.to/lukmanhossain)
+- 📝 I regularly write articles on: [Dev.to](https://dev.to/lukmanhossain)
 
 - 💬 Ask me about: **HTML5, CSS3, Bootstrap, JavaScript, React, React Native**
 
 - 📫 How to reach me: **lukman.webdev@gmail.com**
 
-- 📄 All About Me: [https://lukman-hossain.web.app](https://lukman-hossain.web.app)
+- 📄 All About Me: [Lukman Hossain](https://lukman-hossain.web.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
