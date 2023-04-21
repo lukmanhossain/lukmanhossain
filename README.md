@@ -10,7 +10,7 @@ Hey, Welcome to my GitHub profile. I'm a Full Stack Web Developer, Web Designer,
 
 - 🔭 I’m currently working on: **Web Development**
 
-- 🌱 I’m currently learning: **Python, Django **
+- 🌱 I’m currently learning: **Mobile and Web application Development **
 
 - 👨‍💻 All of my projects are available at: [Github](https://github.com/lukmanhossain)
 
