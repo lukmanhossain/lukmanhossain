@@ -49,7 +49,7 @@ Hey, Welcome to my GitHub profile. I'm a Full Stack Web Developer, Web Designer,
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
 </p>
 
-<!-- <h3 align="left">Github Readme Stats:</h3>
+<h3 align="left">Github Readme Stats:</h3>
  </br>
  <p align="center">
  <a href="https://github.com/lukmanhossain/github-readme-streak-stats"><img alt="Lukman Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lukmanhossain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -59,4 +59,4 @@ Hey, Welcome to my GitHub profile. I'm a Full Stack Web Developer, Web Designer,
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukmanhossain&theme=radical&hide_border=true"/>
 </p>  
 
-<a href="https://github.com/lukmanhossain/github-readme-activity-graph"><img alt="Lukman Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lukmanhossain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/lukmanhossain/github-readme-activity-graph"><img alt="Lukman Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lukmanhossain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
