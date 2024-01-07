@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, This is Lukman Hossain</h1>
 <!-- <h2 align="center">A passionate Full Stack Web Developer, Web Designer, Programmer, Learner.</h2> -->
 
-Welcome to my GitHub profile.
+**Welcome to my GitHub profile.**
 
 **Skills**: React JS, Next JS
 
 - 🔭 I’m currently working on: **Web Development**
 
-- 🌱 I’m currently learning: ** Full Stack Development **
+- 🌱 I’m currently learning: **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at: [Github](https://github.com/lukmanhossain)
 
