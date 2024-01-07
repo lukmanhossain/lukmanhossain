@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, This is Lukman Hossain</h1>
 <h2 align="center">A passionate Full Stack Web Developer, Web Designer, Programmer, Learner.</h2>
 
-![Profile views](https://gpvc.arturio.dev/lukmanhossain) 
 
-Hey, Welcome to my GitHub profile. I'm a Full Stack Web Developer, Web Designer, Programmer, Learner.
+Welcome to my GitHub profile.
 
-**Skills**: REACT / JS / HTML / CSS / BOOTSTRAP 
+**Skills**: REACT
 
 - 🔭 I’m currently working on: **Web Development**
 
