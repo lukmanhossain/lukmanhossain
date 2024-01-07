@@ -4,11 +4,11 @@
 
 Welcome to my GitHub profile.
 
-**Skills**: REACT
+**Skills**: React JS, Next JS
 
 - 🔭 I’m currently working on: **Web Development**
 
-- 🌱 I’m currently learning: **Mobile and Web application Development **
+- 🌱 I’m currently learning: ** Full Stack Development **
 
 - 👨‍💻 All of my projects are available at: [Github](https://github.com/lukmanhossain)
 
