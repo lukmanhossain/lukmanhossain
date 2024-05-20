@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at: [Github](https://github.com/lukmanhossain)
 
-- 📝 Some of my articles on: [Dev.to](https://dev.to/lukmanhossain)
+- 📝 Some of my articles are available on: [Dev.to](https://dev.to/lukmanhossain)
 
 <!-- - 💬 Ask me about: **HTML5, CSS3, Bootstrap, JavaScript, React, Python** -->
 
