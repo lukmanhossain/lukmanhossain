@@ -4,19 +4,19 @@
 
 **Welcome to my GitHub profile.**
 
-**Skills**: React JS, Next JS
+<!-- **Skills**: React JS, Next JS -->
 
-- 🔭 I’m currently working on: **Web Development**
+<!-- 🔭 I’m currently working on: **Web Development** -->
 
-- 🌱 I’m currently learning: **Full Stack Development**
+- 🌱 Currently I'm working on: **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at: [Github](https://github.com/lukmanhossain)
 
-- 📝 I regularly write articles on: [Dev.to](https://dev.to/lukmanhossain)
+- 📝 Some of my articles on: [Dev.to](https://dev.to/lukmanhossain)
 
 <!-- - 💬 Ask me about: **HTML5, CSS3, Bootstrap, JavaScript, React, Python** -->
 
-- 📫 How to reach me: **lukman.webdev@gmail.com**
+- 📫 Mail me: **lukman.webdev@gmail.com**
 
 - 📄 All About Me: [Lukman Hossain](https://lukman-hossain.web.app)
 
