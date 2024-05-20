@@ -1,6 +1,6 @@
-<img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">Hi 👋, This is Lukman Hossain</h1>
-<h4 align="center">Associate Operations Manager @Hackules Inc. || Tech Enthusiast || Learner</h2>
+<img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+<h4 align="left">Associate Operations Manager @Hackules Inc. || Tech Enthusiast || Learner</h2>
 
 **Welcome to my GitHub profile.**
 
