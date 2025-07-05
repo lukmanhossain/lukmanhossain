@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Lukman Hossain</h1>
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-<h3 align="left">Associate Operations Manager @Hackules Inc. || Tech Enthusiast || Learner</h3>
+<h3 align="left">Tech Enthusiast || Learner</h3>
 
 **Welcome to my GitHub profile.**
 
@@ -8,7 +8,7 @@
 
 <!-- 🔭 I’m currently working on: **Web Development** -->
 
-- 🌱 Currently I'm working on: **Full Stack Development**
+- 🌱 Currently I'm working as: **Programming Instructor**
 
 - 👨‍💻 All of my projects are available at: [Github](https://github.com/lukmanhossain)
 
